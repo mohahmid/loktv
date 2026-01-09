@@ -1,0 +1,11 @@
+{
+  "ads_control": {
+    "status": "on",
+    "interstitial": "on",
+    "native": "on"
+  },
+  "app_status": {
+    "blocked": "off",
+    "new_package": "com.cnfsport.streamfootball.app"
+  }
+}
